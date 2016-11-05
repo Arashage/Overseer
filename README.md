@@ -4,9 +4,7 @@ Overseer
 How to run
 ===================
 **Require:** 
-: Maven
-
-: Deployment tool such as Tomcat
+: Git, Maven, Deployment tool such as Tomcat
 
 1. Clone project to your workspace
 
@@ -15,6 +13,7 @@ How to run
   > mvn package
 
 3. Copy war file from Target folder to deployment location and start server
+
 
 
 **Resource Path:**	/Task/webapi/task/getTasks
