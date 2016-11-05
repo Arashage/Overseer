@@ -1,5 +1,22 @@
 Overseer
 ===================
+
+How to run
+===================
+**Require:** 
+: Maven
+
+: Deployment tool such as Tomcat
+
+1. Clone project to your workspace
+
+2. Build project by command line
+
+  > mvn package
+
+3. Copy war file from Target folder to deployment location and start server
+
+
 **Resource Path:**	/Task/webapi/task/getTasks
 **Method:**	GET
 **Description:**	Get all task list
