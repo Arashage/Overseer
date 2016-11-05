@@ -14,7 +14,7 @@ How to run
 
 3. Copy war file from Target folder to deployment location and start server
 
-
+---------
 
 **Resource Path:**	/Task/webapi/task/getTasks
 **Method:**	GET
